@@ -1,0 +1,14 @@
+{
+  "name": "devicetracker",
+  "version" : "0.0.1",
+  "description" : "bot to keep track to devices that are lent",
+  "main": "app.js",
+  "author": "Nitin Sharma",
+  "license" : "MIT",
+  "dependencies": {
+    "express": "^4.x.x",
+    "body-parser": "^1.x.x",
+    "request": "2.56.x"
+  }
+
+}
